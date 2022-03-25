@@ -207,7 +207,7 @@ class _HomePageState extends State<HomePage> {
             ),
           );
 
-          cont = 10;
+          cont = 20;
         }
       });
     });
